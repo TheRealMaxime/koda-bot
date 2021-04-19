@@ -22,21 +22,20 @@
 
 
 
-
-nav.div-friabflgyfgaezgfea{
-  background-color: black; 
-  width: 150px;
+ 
+.display-4 {
+	color: #white;
 }
 
+.display-5 {
+	color: white;
+}
 
+.py-5 {
+	height: 65vh
+}
 
-div.div-style{
-  margin-left: 25px;
-  background-color: #e07070;
-  width: 700px;
-  height: 800px;
-  }
+.font {
+	color: teal
+}
 
-
-  
- 
